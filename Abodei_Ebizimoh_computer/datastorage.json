@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "computerName": "King 3000",
+    "processor": "X-Force",
+    "price": 36,
+    "diskspace": "20 GB",
+    "accessories": ["Cooling system", "Super fan", "coffee cup holder"],
+    "extras": {
+      "model": "XXL",
+      "consumption": "C",
+      "notes": "high capacity"
+    }
+  },
+  {
+    "id": 2,
+    "computerName": "MaxEffect 2000",
+    "processor": "Selenium II",
+    "price": 10,
+    "diskspace": "500 GB",
+    "accessories": ["cleaning set", "coffee cup holder", "Cooling system"],
+    "extras": {
+      "model": "gold",
+      "consumption": "A+",
+      "notes": "no comments"
+    }
+  },
+  {
+    "id": 3,
+    "computerName": "Beast II",
+    "processor": "Selenium II",
+    "price": 36,
+    "diskspace": "4 TB",
+    "accessories": ["coffee cup holder", "super power supply", "Super fan"],
+    "extras": {
+      "model": "chrome",
+      "consumption": "E",
+      "notes": "no comments"
+    }
+  },
+  {
+    "id": 4,
+    "computerName": "Xunil 4.7",
+    "processor": "PiTron 3",
+    "price": 36,
+    "diskspace": "1 TB",
+    "accessories": ["Super fan", "super power supply", "Cooling system"],
+    "extras": {
+      "model": "VIP",
+      "consumption": "C",
+      "notes": "no comments"
+    }
+  },
+  {
+    "id": 5,
+    "computerName": "Cera 2400",
+    "processor": "X-Force",
+    "price": 123,
+    "diskspace": "500 GB",
+    "accessories": ["Cooling system", "coffee cup holder", "super power supply"]
+  },
+  {
+    "id": 6,
+    "computerName": "Pentium Two",
+    "processor": "Intel",
+    "price": 123,
+    "diskspace": "100 GB",
+    "accessories": []
+  }
+]

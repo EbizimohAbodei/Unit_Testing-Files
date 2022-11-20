@@ -1,0 +1,14 @@
+{
+  "name": "diceproject",
+  "version": "1.0.0",
+  "description": "Provides a number from 1 to a give upper bound",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Ebizimoh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

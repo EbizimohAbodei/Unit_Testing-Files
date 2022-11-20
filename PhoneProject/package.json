@@ -1,0 +1,14 @@
+{
+  "name": "phoneproject",
+  "version": "1.0.0",
+  "description": "Phone Directory with JSON access",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ebizimoh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
